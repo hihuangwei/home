@@ -1,5 +1,6 @@
 # 网址导航
 
+![demo](public/demo.png)
 ## 快速开始
 
 安装
