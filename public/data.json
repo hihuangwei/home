@@ -1,0 +1,139 @@
+{
+  "title": "XXXX办公",
+  "footer": {
+    "slogan": "XXXX SOLOGN 公司口号",
+    "copyright": "XXXX有限公司"
+  },
+  "data": [
+    {
+      "title": "集团",
+      "children": [
+        {
+          "name": "百度",
+          "url": "https://www.baidu.com"
+        },
+        {
+          "name": "语雀",
+          "url": "https://www.yuque.com"
+        },
+        {
+          "name": "钉钉",
+          "url": "https://www.dingtalk.com"
+        },
+        {
+          "name": "建设银行",
+          "url": "http://www.ccb.com"
+        },
+        {
+          "name": "工商银行",
+          "url": "https://www.icbc.com.cn"
+        },
+        {
+          "name": "农业银行",
+          "url": "https://www.abchina.com"
+        },
+        {
+          "name": "中国银行",
+          "url": "https://www.boc.cn"
+        },
+        {
+          "name": "中信银行",
+          "url": "https://www.citicbank.com"
+        },
+        {
+          "name": "兴业银行",
+          "url": "https://www.cib.com.cn"
+        },
+        {
+          "name": "微信公众平台",
+          "url": "https://mp.weixin.qq.com"
+        },
+        {
+          "name": "宁德公积金",
+          "url": "http://gjj.ningde.gov.cn"
+        },
+        {
+          "name": "福建税务",
+          "url": "http://fujian.chinatax.gov.cn"
+        },
+        {
+          "name": "福建122",
+          "url": "https://fj.122.gov.cn"
+        },
+        {
+          "name": "福建政务服务",
+          "url": "https://zwfw.fujian.gov.cn"
+        },
+        {
+          "name": "文档超级转换工具",
+          "url": "https://www.wdku.net"
+        }
+      ]
+    },
+	{
+      "title": "常用工具",
+      "children": [
+        {
+          "name": "百度",
+          "url": "https://www.baidu.com"
+        },
+        {
+          "name": "语雀",
+          "url": "https://www.yuque.com"
+        },
+        {
+          "name": "钉钉",
+          "url": "https://www.dingtalk.com"
+        },
+        {
+          "name": "建设银行",
+          "url": "http://www.ccb.com"
+        },
+        {
+          "name": "工商银行",
+          "url": "https://www.icbc.com.cn"
+        },
+        {
+          "name": "农业银行",
+          "url": "https://www.abchina.com"
+        },
+        {
+          "name": "中国银行",
+          "url": "https://www.boc.cn"
+        },
+        {
+          "name": "中信银行",
+          "url": "https://www.citicbank.com"
+        },
+        {
+          "name": "兴业银行",
+          "url": "https://www.cib.com.cn"
+        },
+        {
+          "name": "微信公众平台",
+          "url": "https://mp.weixin.qq.com"
+        },
+        {
+          "name": "宁德公积金",
+          "url": "http://gjj.ningde.gov.cn"
+        },
+        {
+          "name": "福建税务",
+          "url": "http://fujian.chinatax.gov.cn"
+        },
+        {
+          "name": "福建122",
+          "url": "https://fj.122.gov.cn"
+        },
+        {
+          "name": "福建政务服务",
+          "url": "https://zwfw.fujian.gov.cn"
+        },
+        {
+          "name": "文档超级转换工具",
+          "url": "https://www.wdku.net"
+        }
+      ]
+    }
+  ]
+}
